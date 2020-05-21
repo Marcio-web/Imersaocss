@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.Rl_GuKad-yGjrmMjBwex3QHaEK?pid=Api&w=244&h=146.4&c=7);
+    background-size: auto 100vh;
+    font-family: Arial;
+     height: 100vh;
+  }
+  
+  .menu{
+    background-color: White;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
